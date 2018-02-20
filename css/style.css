@@ -1,0 +1,10 @@
+body{
+    padding-top: 70px;
+    background-color: black;
+    background-image: url(images/background.jpg);
+}
+
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+}
